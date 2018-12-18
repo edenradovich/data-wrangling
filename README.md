@@ -1,7 +1,35 @@
 ## Table of Contents
+- [Getting Started](#getting-started)
 - [Introduction](#intro)
 - [Data Wrangling Summary](#wrangle)
 - [Data Analysis Summary](#analysis)
+
+
+<a id='getting-started'></a>
+## Getting Started
+
+This project requires Python and the following Python libraries installed:
+
+- [numpy](http://www.numpy.org/)
+- [pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [requests](http://docs.python-requests.org/en/master/)
+- [tweepy](http://www.tweepy.org/)
+- [json](https://docs.python.org/2/library/json.html)
+- [timeit](https://docs.python.org/2/library/timeit.html)
+- [seaborn](https://seaborn.pydata.org/)
+
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/).
+
+If you do not have Python installed yet, install the [Anaconda](https://www.anaconda.com/download/#macos) distribution of Python, which already has the above packages and more included.
+
+### Run
+In a terminal or command window, run the following command:
+
+    jupyter notebook
+    
+This will open the Jupyter Notebook software in your browser and you can navigate to the directory where the file is.
 
 <a id='intro'></a>
 # Introduction
