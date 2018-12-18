@@ -140,5 +140,5 @@ Here is a visualization representing the above numbers in graphical form. The ba
 <a id='winner'></a>
 ## Winner
 
-Congrats to the Golden Retriever for being the highest rated dog breed!
+Congrats to the Golden Retriever for being the highest rated dog breed on the WeRateDogs Twitter feed!
 ![Golden Retriever](/golden_retriever.png)
