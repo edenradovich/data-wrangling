@@ -3,7 +3,7 @@
 - [Introduction](#intro)
 - [Data Wrangling Summary](#wrangle)
 - [Data Analysis Summary](#analysis)
-
+- [Winner](#winner)
 
 <a id='getting-started'></a>
 ## Getting Started
@@ -136,3 +136,9 @@ Here were the results of the average ratings each of the above dog breeds receiv
 Here is a visualization representing the above numbers in graphical form. The bars are ordered by number of tweets.
 
 ![Top 10 Breeds](/Top10Breeds.png)
+
+<a id='winner'></a>
+## Winner
+
+Congrats to the Golden Retriever for being the highest rated dog breed!
+![Golden Retriever](/golden_retriever.png)
