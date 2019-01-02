@@ -34,12 +34,10 @@ This will open the Jupyter Notebook software in your browser and you can navigat
 <a id='intro'></a>
 # Introduction
 
-This project was focused primarily on data wrangling. I have gathered, assessed and cleaned data from the WeRateDogs twitter account, @dog_rates. Starting with basic data provided by Twitter directly, I have also wrangled additional data from Twitter’s API to perform an interesting and entertaining analysis on dog ratings.
+This project focused primarily on data wrangling. I have gathered, assessed and cleaned data from the WeRateDogs twitter account, @dog_rates. Starting with basic data provided by Twitter directly, I have also wrangled additional data from Twitter’s API to perform an interesting and entertaining analysis on dog ratings.
 
 <a id='wrangle'></a>
 # Data Wrangling Summary
-
-In this project, I have wrangled data from the `WeRateDogs` twitter account, @dog_rates. Starting with basic data provided by Twitter directly such as tweet ID, timestamp, text, etc., I have collected additional data from Twitter’s API, which shows retweet count and favorite count as well. 
 
 After acquiring all the data, I identified the below issues, separated by Tidiness and Quality:
 *Tidiness Issues:*
