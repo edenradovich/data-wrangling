@@ -36,6 +36,8 @@ This will open the Jupyter Notebook software in your browser and you can navigat
 
 This project focused primarily on data wrangling. I have gathered, assessed and cleaned data from the WeRateDogs twitter account, @dog_rates. Starting with basic data provided by Twitter directly, I have also wrangled additional data from Twitter’s API to perform an interesting and entertaining analysis on dog ratings.
 
+NOTE: Dog ratings are not based on the traditional scale of 0-10. Most of the ratings actually exceed 10/10.
+
 <a id='wrangle'></a>
 # Data Wrangling Summary
 
